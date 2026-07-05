@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi, I'm Doyoung Kim 👋
+
+I'm an AI Software major at Soongsil University in South Korea.
+I'm interested in deep learning, and AI agents.
+
+## About Me
+- Undergraduate student majoring in AI Software
+- Learning Python, C++, and Git/GitHub through study and projects
+
+## Currently Learning
+- Data Structures & Algorithms
+- Machine Learning
+- PyTorch / OpenCV
+- C++
+- Git/GitHub collaboration workflow
+- AI agents (Codex, Claude Code)
+
+## Featured Projects
+- Real-time Age & Gender Prediction GUI
+- Bus Reservation Management System
+
+## Study Repositories
+- data-structures-and-algorithms
+
+## Tech Stack
+- Languages: Python, C++
+- AI/ML: Numpy, pandas, scikit-learn
+- Tools: Git, GitHub, VS Code
+
+## Contact
+- GitHub: [@dddyoung2](https://github.com/dddyoung2)
 
 <!--
 **dddyoung2/dddyoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
