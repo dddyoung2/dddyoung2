@@ -29,6 +29,8 @@ I'm interested in deep learning, and AI agents.
 
 ## Contact
 - GitHub: [@dddyoung2](https://github.com/dddyoung2)
+- email(Univ): dykim7326@soongsil.ac.kr
+- email(Gmail): dykim7326@gmail.com
 
 <!--
 **dddyoung2/dddyoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
