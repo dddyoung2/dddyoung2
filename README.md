@@ -14,7 +14,7 @@ I'm interested in Deep Learning, and AI agents.
 
 #### Libraries & Frameworks
 ![numpy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/NumPy-150458?style=flat&logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 #### Tools & Development Environment
