@@ -1,13 +1,20 @@
-# Hi, I'm Doyoung Kim 👋
+# 👋 Hello, I'm Doyoung Kim 👋
 
-I'm an AI Software major at Soongsil University in South Korea.
-I'm interested in deep learning, and AI agents.
+I'm an undergraduate student at Soongsil University in South Korea, majoring in AI Software.  
+I'm interested in Deep Learning, and AI agents.  
+[![dykim7326@gmail.com](https://img.shields.io/badge/dykim7326@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dykim7326@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dddyoung2)
 
-## About Me
-- Undergraduate student majoring in AI Software
-- Learning Python, C++, and Git/GitHub through study and projects
+## 🛠️ Tech Stack
+- Languages: Python, C++
+- AI/ML: Numpy, pandas, scikit-learn
+- Tools: Git, GitHub, VS Code
 
-## Currently Learning
+## 🧑‍💻 Featured Projects
+- Real-time Age & Gender Prediction GUI
+- Bus Reservation Management System
+
+## 📖 Currently Learning
 - Data Structures & Algorithms
 - Machine Learning
 - PyTorch / OpenCV
@@ -15,19 +22,11 @@ I'm interested in deep learning, and AI agents.
 - Git/GitHub collaboration workflow
 - AI agents (Codex, Claude Code)
 
-## Featured Projects
-- Real-time Age & Gender Prediction GUI
-- Bus Reservation Management System
+## 🗂️ Study Repositories
+- data-structures-and-algorithms (private)
+- deeplearning-studying (private)
 
-## Study Repositories
-- data-structures-and-algorithms
-
-## Tech Stack
-- Languages: Python, C++
-- AI/ML: Numpy, pandas, scikit-learn
-- Tools: Git, GitHub, VS Code
-
-## Contact
+## 📧 Contact
 - GitHub: [@dddyoung2](https://github.com/dddyoung2)
 - email(Univ): dykim7326@soongsil.ac.kr
 - email(Gmail): dykim7326@gmail.com
