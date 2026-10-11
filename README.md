@@ -26,8 +26,10 @@ I'm interested in Deep Learning, and AI agents.
 ![ChatGPT](https://img.shields.io/badge/Codex-58A6FF?style=flat&logo=&logoColor=white)
 
 ## 🧑‍💻 Featured Projects
-- Real-time Age & Gender Prediction GUI
+- Real-time Age & Gender Prediction Product
 - Bus Reservation Management System
+- Unithon: NoBoss AI
+- Lissurary: Library auto scheduler
 
 ## 📖 Currently Learning
 - Data Structures & Algorithms
@@ -39,6 +41,7 @@ I'm interested in Deep Learning, and AI agents.
 ## 🗂️ Study Repositories
 - data-structures-and-algorithms (private)
 - deeplearning-studying (private)
+- study-github
 
 <!--
 **dddyoung2/dddyoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
