@@ -30,21 +30,24 @@ I'm interested in Deep Learning, and AI agents.
 - Bus Reservation Management System
 - Unithon: NoBoss AI
 - Lissurary: Library auto scheduler
+- FR-based Smart Attedance System
+
 
 ## 📖 Currently Learning
 - Data Structures & Algorithms
 - Deep Learning
-- PyTorch
 - Git/GitHub collaboration workflow
 - AI agents (Codex, Claude Code)
+
+
+
+<!--
+**dddyoung2/dddyoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🗂️ Study Repositories
 - data-structures-and-algorithms (private)
 - deeplearning-studying (private)
 - study-github
-
-<!--
-**dddyoung2/dddyoung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
